@@ -3,10 +3,10 @@
   "description": "",
   "main": "index.js",
   "authors": [
-    "Thanapon Yalan <thanaponyalan@gmail.com>"
+    "Sittinon Tatiyajinda <60030098@kmitl.ac.th>"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/thanaponyalan/temp_rtc",
+  "homepage": "https://github.com/iomxin/TemperatureRTC",
   "ignore": [
     "**/.*",
     "node_modules",
