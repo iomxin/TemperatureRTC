@@ -1,9 +1,9 @@
 # Temp_RTC
 
-![image](img/Temp1.jpg)
+![image](img/img1.PNG)
 
 
-![image](img/Temp2.jpg)
+![image](img/img2.PNG)
 
 ## Features
 
